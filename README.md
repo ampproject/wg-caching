@@ -6,10 +6,11 @@ Facilitator: [@gregable](https://github.com/gregable)
 
 # Members
 - [@alin04](https://github.com/alin04) - Angie Lin
+- [@amaltas](https://github.com/amaltas) - Amaltas Bohra
 - [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
 - [@gregable](https://github.com/gregable) - Greg Grothaus (Facilitator)
 - [@twifkak](https://github.com/twifkak) - Devin Mullins
-- [@amaltas](https://github.com/amaltas) - Amaltas Bohra
+
 
 Github team https://github.com/orgs/ampproject/teams/wg-caching also includes UI WG members.
 
