@@ -8,6 +8,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@alin04](https://github.com/alin04) - Angie Lin
 - [@amaltas](https://github.com/amaltas) - Amaltas Bohra
 - [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
+- [@hiroshimizuno](https://github.com/hiroshimizuno) - Hiroshi Mizuno
 - [@gregable](https://github.com/gregable) - Greg Grothaus (Facilitator)
 - [@twifkak](https://github.com/twifkak) - Devin Mullins
 
