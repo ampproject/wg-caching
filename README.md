@@ -22,7 +22,7 @@ Github team https://github.com/orgs/ampproject/teams/wg-caching also includes UI
 
 Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
 
-`@ampproject/wg-caching` can be used to mention the UI Working Group in issues and PRs.
+`@ampproject/wg-caching` can be used to mention the Caching Working Group in issues and PRs.
 
 # Code of Conduct
-UI Working Group follows the [AMP open source project code of conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).
+The Caching Working Group follows the [AMP open source project code of conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).
