@@ -5,8 +5,8 @@ for AMPHTML's validator and features related to AMPHTML caches.
 Facilitator: [@gregable](https://github.com/gregable)
 
 # Members
-- [@alin04](https://github.com/alin04) - Angie Lin
 - [@amaltas](https://github.com/amaltas) - Amaltas Bohra
+- [@banaag](https://github.com/banaag) - Allan Banaag
 - [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
 - [@hiroshimizuno](https://github.com/hiroshimizuno) - Hiroshi Mizuno
 - [@kumagi](https://github.com/kumagi) - Hiroki Kumazaki
