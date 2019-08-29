@@ -20,7 +20,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 Github team https://github.com/orgs/ampproject/teams/wg-caching also includes UI WG members.
 
 # Communication Channels
-- Caching Working Group members will use `#wg-caching` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group.
+- Caching Working Group members will use `#wg-caching` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group. However, support is better suited to the `#caching-discuss`, `#signed-exchanges`, and `#validator-discuss` channels.
 - Caching Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
 - Caching Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
 
