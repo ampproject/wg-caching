@@ -1,0 +1,34 @@
+title: Caching
+description: wg-caching Working Group is responsible for AMPHTML's validator and features related to AMPHTML caches.
+facilitator:
+  login: gregable
+  name: Greg Grothaus
+members:
+  - login: amaltas
+    name: Amaltas Bohra
+  - login: banaag
+    name: Allan Banaag
+  - login: honeybadgerdontcare
+    name:
+  - login: hiroshimizuno
+    name: Hiroshi Mizuno
+  - login: kumagi
+    name: Hiroki Kumazaki
+  - login: gusmachine
+    name: Yu Sugawara
+  - login: tomokinat
+    name: Tomoki Nakagawa
+  - login: twifkak
+    name: Devin Mullins
+  - login: yuizumi
+    name: Yusuke Izumi
+communication:
+  - channel: slack
+    name: Slack
+    content:
+      - item: "Caching Working Group members will use `#wg-caching` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group. However, support is better suited to the `#caching-discuss`, `#signed-exchanges`, and `#validator-discuss` channels."
+  - channel: github
+    name: GitHub
+    content:
+      - item: "Caching Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
+      - item: "Caching Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
