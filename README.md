@@ -9,6 +9,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@banaag](https://github.com/banaag) - Allan Banaag
 - [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
 - [@hiroshimizuno](https://github.com/hiroshimizuno) - Hiroshi Mizuno
+- [@jeffjose](https://github.com/jeffjose) - Jeff Jose
 - [@kumagi](https://github.com/kumagi) - Hiroki Kumazaki
 - [@gregable](https://github.com/gregable) - Greg Grothaus (Facilitator)
 - [@gusmachine](https://github.com/gusmachine) - Yu Sugawara
