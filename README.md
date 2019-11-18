@@ -14,6 +14,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@kumagi](https://github.com/kumagi) - Hiroki Kumazaki
 - [@gregable](https://github.com/gregable) - Greg Grothaus (Facilitator)
 - [@gusmachine](https://github.com/gusmachine) - Yu Sugawara
+- [@nhant01](https://github.com/nhant01) - Nhan Thuan Nguyen
 - [@tomokinat](https://github.com/tomokinat) - Tomoki Nakagawa
 - [@twifkak](https://github.com/twifkak) - Devin Mullins
 - [@yuizumi](https://github.com/yuizumi) - Yusuke Izumi
