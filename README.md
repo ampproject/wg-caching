@@ -9,7 +9,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@banaag](https://github.com/banaag) - Allan Banaag
 - [@gaul](https://github.com/gaul) - Andrew Gaul
 - [@georgeluo](https://github.com/GeorgeLuo) - George Luo
-- [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
+- [@honeybadgerdontcare](https://github.com/honeybadgerdontcare) - David Sedano
 - [@hiroshimizuno](https://github.com/hiroshimizuno) - Hiroshi Mizuno
 - [@jeffjose](https://github.com/jeffjose) - Jeff Jose
 - [@kumagi](https://github.com/kumagi) - Hiroki Kumazaki
@@ -19,6 +19,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@tomokinat](https://github.com/tomokinat) - Tomoki Nakagawa
 - [@twifkak](https://github.com/twifkak) - Devin Mullins
 - [@yuizumi](https://github.com/yuizumi) - Yusuke Izumi
+- [@michaelrybak](https://github.com/michaelrybak) - Mike Rybak
 
 
 Github team https://github.com/orgs/ampproject/teams/wg-caching also includes UI WG members.
