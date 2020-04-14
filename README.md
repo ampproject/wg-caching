@@ -19,6 +19,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@tomokinat](https://github.com/tomokinat) - Tomoki Nakagawa
 - [@twifkak](https://github.com/twifkak) - Devin Mullins
 - [@yuizumi](https://github.com/yuizumi) - Yusuke Izumi
+- [@michaelrybak](https://github.com/michaelrybak) - Mike Rybak
 
 
 Github team https://github.com/orgs/ampproject/teams/wg-caching also includes UI WG members.
