@@ -9,7 +9,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@banaag](https://github.com/banaag) - Allan Banaag
 - [@gaul](https://github.com/gaul) - Andrew Gaul
 - [@georgeluo](https://github.com/GeorgeLuo) - George Luo
-- [@honeybadgerdontcare](https://github.com/honeybadgerdontcare) - David Sedano
+- [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
 - [@hiroshimizuno](https://github.com/hiroshimizuno) - Hiroshi Mizuno
 - [@jeffjose](https://github.com/jeffjose) - Jeff Jose
 - [@kumagi](https://github.com/kumagi) - Hiroki Kumazaki
