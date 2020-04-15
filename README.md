@@ -15,12 +15,13 @@ Facilitator: [@gregable](https://github.com/gregable)
 - [@kumagi](https://github.com/kumagi) - Hiroki Kumazaki
 - [@gregable](https://github.com/gregable) - Greg Grothaus (Facilitator)
 - [@gusmachine](https://github.com/gusmachine) - Yu Sugawara
+- [@michaelrybak](https://github.com/michaelrybak) - Mike Rybak
 - [@nhant01](https://github.com/nhant01) - Nhan Thuan Nguyen
 - [@tomokinat](https://github.com/tomokinat) - Tomoki Nakagawa
 - [@twifkak](https://github.com/twifkak) - Devin Mullins
 - [@yuizumi](https://github.com/yuizumi) - Yusuke Izumi
 - [@yunchengz](https://github.com/yunchengz) - Yuncheng Zhu
-- [@michaelrybak](https://github.com/michaelrybak) - Mike Rybak
+
 
 
 Github team https://github.com/orgs/ampproject/teams/wg-caching also includes UI WG members.
