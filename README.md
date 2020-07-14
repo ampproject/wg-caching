@@ -7,6 +7,7 @@ Facilitator: [@gregable](https://github.com/gregable)
 # Members
 - [@amaltas](https://github.com/amaltas) - Amaltas Bohra
 - [@banaag](https://github.com/banaag) - Allan Banaag
+- [@caoboxiao](https://github.com/caoboxiao) - Boxiao Cao
 - [@gaul](https://github.com/gaul) - Andrew Gaul
 - [@georgeluo](https://github.com/GeorgeLuo) - George Luo
 - [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
