@@ -10,12 +10,16 @@ members:
     name: Allan Banaag
   - login: honeybadgerdontcare
     name:
+  - login: caoboxiao
+    name: Boxiao Cao
+  - login: gusmachine
+    name: Yu Sugawara
   - login: hiroshimizuno
     name: Hiroshi Mizuno
   - login: kumagi
     name: Hiroki Kumazaki
-  - login: gusmachine
-    name: Yu Sugawara
+  - login: michaelrybak
+    name: Mike Rybak
   - login: tomokinat
     name: Tomoki Nakagawa
   - login: twifkak
