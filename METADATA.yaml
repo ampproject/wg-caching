@@ -1,5 +1,5 @@
 title: Caching
-description: wg-caching Working Group is responsible for AMPHTML's validator and features related to AMPHTML caches.
+description: Responsible for AMPHTML's validator and features related to AMPHTML caches.
 facilitator:
   login: gregable
   name: Greg Grothaus
@@ -8,24 +8,36 @@ members:
     name: Amaltas Bohra
   - login: banaag
     name: Allan Banaag
-  - login: honeybadgerdontcare
-    name:
   - login: caoboxiao
     name: Boxiao Cao
-  - login: gusmachine
-    name: Yu Sugawara
+  - login: gaul
+    name: Andrew Gaul
+  - login: georgeluo
+    name: George Luo
+  - login: honeybadgerdontcare
+    name: honeybadgerdontcare
   - login: hiroshimizuno
     name: Hiroshi Mizuno
+  - login: jeffjose
+    name: Jeff Jose
   - login: kumagi
     name: Hiroki Kumazaki
+  - login: gregable
+    name: Greg Grothaus (Facilitator)
+  - login: gusmachine
+    name: Yu Sugawara
   - login: michaelrybak
     name: Mike Rybak
+  - login: nhant01
+    name: Nhan Thuan Nguyen
   - login: tomokinat
     name: Tomoki Nakagawa
   - login: twifkak
     name: Devin Mullins
   - login: yuizumi
     name: Yusuke Izumi
+  - login: yunchengz
+    name: Yuncheng Zhu
 communication:
   - channel: slack
     name: Slack
